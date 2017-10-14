@@ -1,4 +1,4 @@
-//updated by semhar
+
 int main()
 {
   int i;
